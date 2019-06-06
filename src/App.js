@@ -1,7 +1,7 @@
 import React from 'react';
 import CKEditor from '@ckeditor/ckeditor5-react';
-// import ClassicEditor from '@ckeditor/ckeditor5-build-classic/build/ckeditor.js';
-import ClassicEditor from './ckeditor';
+// import ClassicEditor from '@ckeditor/ckeditor5-build-classic/build/ckeditor';
+import ClassicEditor from 'ckeditor5-build-crd/build/ckeditor';
 
 import './App.css';
 
